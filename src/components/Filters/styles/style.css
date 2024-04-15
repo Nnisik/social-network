@@ -1,0 +1,7 @@
+.filters-container {
+    width: 600px;
+    background: #fff;
+    margin: 1vh auto;
+    padding: 2px 10px 0px;
+    border-bottom: 1px solid salmon;
+}
